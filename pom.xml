@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shopping</groupId>
-	<artifactId>shopping-cart-spring-boot</artifactId>
+	<artifactId>spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot</name>
 	<description>Demo project for Spring Boot</description>
