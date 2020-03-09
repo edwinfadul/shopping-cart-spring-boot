@@ -6,7 +6,7 @@ Java EE 8 o superior
 
 ## Comando para inciar la aplicación.
 ```maven
-mvn spring-boot:run
+mvnw spring-boot:run
 ```
 
 ## Api rest para crear cliente
