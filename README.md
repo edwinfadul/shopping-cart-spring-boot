@@ -4,6 +4,13 @@ Prueba técnica con spring boot.
 ## Prerrequisitos.
 Java EE 8 o superior
 
+Cambiar el usuario y contraseña de acceso a la base de datos que esta en la ruta:
+```properties
+shopping-cart-spring-boot\src\main\resources\application.properties
+spring.datasource.username=sa
+spring.datasource.password=sa
+```
+
 ## Comando para inciar la aplicación.
 ```maven
 mvnw spring-boot:run
